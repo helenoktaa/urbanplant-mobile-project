@@ -16,7 +16,7 @@ UrbanPlant adalah aplikasi mobile berbasis Flutter yang digunakan untuk membeli 
 ### 🛍️ Produk
 
 * Menampilkan daftar tanaman
-* Detail produk (gambar, harga, deskripsi)
+* Detail produk (gambar, harga, deskripsi, kategori)
 * Data terhubung dengan backend API
 
 ### ❤️ Wishlist
@@ -35,7 +35,7 @@ UrbanPlant adalah aplikasi mobile berbasis Flutter yang digunakan untuk membeli 
 
 * Login & Register user
 * Menggunakan Firebase Authentication
-
+  
 ---
 
 ## 🛠️ Tools
