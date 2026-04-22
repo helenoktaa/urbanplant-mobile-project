@@ -1,4 +1,4 @@
-# 🌱 UrbanPlant
+# UrbanPlant
 
 **Helen Oktaviani**
 1123150205
