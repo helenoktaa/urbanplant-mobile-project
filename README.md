@@ -6,48 +6,48 @@ TI SE 23 M
 
 ---
 
-## 📌 Deskripsi Aplikasi
+## Deskripsi Aplikasi
 
 UrbanPlant adalah aplikasi mobile berbasis Flutter yang digunakan untuk membeli tanaman secara online dengan tampilan modern dan user-friendly. Aplikasi ini terintegrasi dengan backend API berbasis Golang untuk mengelola data produk, keranjang, dan transaksi secara real-time.
 
 ---
 
-## 🚀 Fitur Utama
+## Fitur Utama
 
-### 🛍️ Produk
+### Produk
 
 * Menampilkan daftar tanaman
 * Detail produk (gambar, harga, deskripsi, kategori)
 * Data terhubung dengan backend API
 
-### ❤️ Wishlist
+### Wishlist
 
 * Menyimpan produk favorit
 * Tambah & hapus wishlist
 
-### 🛒 Keranjang (Cart)
+### Keranjang (Cart)
 
 * Tambah produk ke keranjang
 * Update quantity (+ / -)
 * Hapus item dari keranjang
 * Perhitungan total harga otomatis
 
-### 🔐 Autentikasi
+### Autentikasi
 
 * Login & Register user
 * Menggunakan Firebase Authentication
   
 ---
 
-## 🛠️ Tools
+## Tools
 
-### 📱 Frontend
+### Frontend
 
 * Flutter
 * Provider (State Management)
 * Dio (HTTP Client)
 
-### ⚙️ Backend
+### Backend
 
 * Golang (Gin Framework)
 * MySQL
