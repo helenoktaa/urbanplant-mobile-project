@@ -1,4 +1,4 @@
-# UrbanPlant
+# 🌱 UrbanPlant
 
 **Helen Oktaviani**
 1123150205
@@ -6,13 +6,13 @@ TI SE 23 M
 
 ---
 
-## Deskripsi Aplikasi
+## 📌 Deskripsi
 
 UrbanPlant adalah aplikasi mobile berbasis Flutter yang digunakan untuk membeli tanaman secara online dengan tampilan modern dan user-friendly. Aplikasi ini terintegrasi dengan backend API berbasis Golang untuk mengelola data produk, keranjang, dan transaksi secara real-time.
 
 ---
 
-## Fitur Utama
+## 🚀 Fitur
 
 ### Produk
 
@@ -39,7 +39,7 @@ UrbanPlant adalah aplikasi mobile berbasis Flutter yang digunakan untuk membeli 
   
 ---
 
-## Tools
+## 🛠️ Tools
 
 ### Frontend
 
