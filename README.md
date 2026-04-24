@@ -63,6 +63,10 @@ https://github.com/helenoktaa/urban-plant
 ⚙️ Backend API:
 https://github.com/helenoktaa/urban-plant-be
 
+## 🎥 Demo Video
+
+▶️ YouTube:
+bit.ly/urbanplant-app
 ---
 
 Project ini dibuat untuk memenuhi tugas Ujian Tengah Semester (UTS) mata kuliah Aplikasi Mobile Lanjutan.
