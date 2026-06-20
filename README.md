@@ -66,7 +66,7 @@ https://github.com/helenoktaa/urban-plant-be
 ## 🎥 Demo Video
 
 ▶️ YouTube:
-bit.ly/urbanplant-app
+https://youtu.be/XLyio8dR6Rs?si=kHeRkaQ2-MEGITe4
 
 ---
 
